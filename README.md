@@ -17,9 +17,9 @@
 
 ### About Me:
 - 🔭 I’m currently developing my skills as full stack web developer.
-- 💬 Ask me about Machine Learning, Online Certificates, Coffe.
+- 💬 Ask me about Machine Learning, Online Certificates, Coffee.
 - 📫  You can reach me at oussama_elabdioui@hotmail.com
-- ⚡ I like 💻: Programming | 🚶‍♂ Long Walks | 📖 Reading .
+- ⚡ I like 💻: Programming | 🚶‍♂ Long Walks | 📖 Reading.
 
 ### Languages and Tools:
 <div>
@@ -34,14 +34,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<!--
-**codedit334/codedit334** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
