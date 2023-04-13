@@ -3,6 +3,9 @@
 <div id="header" align="center">
   <img src="https://github.com/codedit334/codedit334/blob/main/Simple%20Work%20LinkedIn%20Banner.png?raw=true" align="center" width="100%"/>
 </div>
+
+_________________
+
 <div>
 <div id="header" align="center">
 <!--   <img src="https://media.giphy.com/media/hfGBJtI9p1POZjNX2H/giphy.gif" align="left" width="300"/> -->
