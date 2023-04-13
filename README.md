@@ -1,13 +1,12 @@
 <!-- ### Hi there 👋 -->
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/hfGBJtI9p1POZjNX2H/giphy.gif" width="300"/>
+  <img src="https://github.com/codedit334/codedit334/blob/main/Simple%20Work%20LinkedIn%20Banner.png?raw=true" align="center" width="100%"/>
 </div>
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/oussama-elabdioui-4677a41b6/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+<div>
+<div id="header" align="center">
+<!--   <img src="https://media.giphy.com/media/hfGBJtI9p1POZjNX2H/giphy.gif" align="left" width="300"/> -->
+  <img src="https://media.giphy.com/media/hfGBJtI9p1POZjNX2H/giphy.gif" align="right" width="270"/>
 </div>
 
 <!-- View Count -->
@@ -18,8 +17,9 @@
 ### About Me:
 - 🔭 I’m currently developing my skills as full stack web developer.
 - 💬 Ask me about Machine Learning, Online Certificates, Coffee.
-- 📫  You can reach me at oussama_elabdioui@hotmail.com
+- 📫  You can reach me at oussama_elabdioui@hotmail.com.
 - ⚡ I like 💻: Programming | 🚶‍♂ Long Walks | 📖 Reading.
+</div>
 
 ### Languages and Tools:
 <div align="center">
@@ -36,4 +36,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   
 </div>
-
+<div id="badges" align="right">
+  <a href="https://www.linkedin.com/in/oussama-elabdioui-4677a41b6/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
