@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 
 <div id="header" align="center">
-  <img src="https://github.com/codedit334/codedit334/blob/main/Simple%20Work%20LinkedIn%20Banner.png?raw=true" align="center" width="100%"/>
+  <img src="https://github.com/codedit334/codedit334/blob/main/Simple%20Work%20LinkedIn%20Banner.jpg?raw=true" align="center" width="100%"/>
 </div>
 
 _________________
